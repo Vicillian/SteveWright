@@ -1,5 +1,10 @@
 .theText {
     text-align:center;
+    color:white;
+    background-color: black;
+}
+html{
+    background-color: black;
 }
 
 .text {
