@@ -10,3 +10,17 @@ html{
 .text {
     color:aqua
 }
+.PoshTitle {
+    font-style: italic;
+    font-family: serif;
+}
+
+.plsStop {
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+.orderedList {
+    text-align: center;
+    list-style-position: inside;
+}
