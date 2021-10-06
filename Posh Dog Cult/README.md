@@ -1,2 +1,0 @@
-# SteveWright
-OT Capstone Website
