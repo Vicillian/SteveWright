@@ -1,0 +1,31 @@
+.theText {
+    text-align:center;
+    color:white;
+    background-color: black;
+}
+html{
+    background-color: black;
+}
+
+.text {
+    color:aqua
+}
+.PoshTitle {
+    font-style: italic;
+    font-family: serif;
+}
+
+.plsStop {
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+.orderedList {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    border-style: dashed;
+    border-color: white;
+}
