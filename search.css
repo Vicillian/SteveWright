@@ -1,0 +1,23 @@
+p {
+    color:transparent;
+}
+
+h1{
+    text-align: center;
+    margin-left: 14%;
+    margin-right: 14%;
+}
+
+.results{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.item{
+    width:10000px;
+}
+
+h6{
+    text-align: center;
+}
